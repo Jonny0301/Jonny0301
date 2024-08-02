@@ -90,8 +90,5 @@ Feel free to connect with me or check out my work on GitHub!
 </div>
 
 
-![](./profile-3d-contrib/profile-season.svg?username=Jonny0301)
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
