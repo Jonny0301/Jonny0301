@@ -52,15 +52,6 @@ Feel free to connect with me or check out my work on GitHub!
 
 ---
 
-<table width="2000">
-<tr>
-<td width="2000"><img src="https://github-trophies.vercel.app/?Jonny0301=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
-<!-- <td>![](https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
-</tr>
-</table>
-
-
-
 <div align="center">
 <a href="https://github.com/Jonny0301?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Jonny0301&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
