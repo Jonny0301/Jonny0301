@@ -78,5 +78,3 @@ Feel free to connect with me or check out my work on GitHub!
 </div>
 
 
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
