@@ -76,8 +76,8 @@ Feel free to connect with me or check out my work on GitHub!
 </div>
 
 <br>
-<div align="center">
-    <div style="display: inline-block; height: 100%;">
+<div style="display:flex; flex-direction:row; width:100%;">
+    <div style="display: inline-block; height: 100%;width:48%;">
         <picture>
             <!-- Dark theme -->
             <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Jonny0301&theme=onestar&no-frame=true&column=8&row=1" />
@@ -87,6 +87,13 @@ Feel free to connect with me or check out my work on GitHub!
             <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jonny0301&theme=onestar&no-frame=true&column=6&row=1" alt="@Jonny0301's trophy stats" />
         </picture>
     </div>
+  <div style="display: inline-block; height: 100%;width:48%">
+      <picture>
+         <a href="https://github.com/RoriFloris?tab=stars"> 
+           <img src="https://github-readme-streak-stats.herokuapp.com?user=RoriFloris&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"alt="@RoriFloris's github-readme-streak-stats"/>
+          </a>
+      </picture>
+  </div>
 </div>
 
 
