@@ -52,6 +52,12 @@ Feel free to connect with me or check out my work on GitHub!
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div align="center">
 <a href="https://github.com/Jonny0301?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Jonny0301&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
