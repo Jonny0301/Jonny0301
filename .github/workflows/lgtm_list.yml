@@ -1,0 +1,23 @@
+name: LGTM list
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths: 'LGTM/**'
+  push:
+    paths: 'LGTM/**'
+
+jobs:
+  create_list:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Create LGTM list
+        run: ./bin/make_lgtm.sh
+      - name: Commit & Push
+        run: |
+          git config user.name Jonny0301
+          git config user.email stevenerdomo2424@gmail.com
+          git add -A .
+          git commit -m "create LGTM list"
+          git push
