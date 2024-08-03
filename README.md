@@ -1,4 +1,4 @@
-![Hello](docs/hello.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello+Welcome+To+My+Github;I+Am+A+Fullstack+And+Mobile+Developer.)](https://git.io/typing-svg)
 
 # Jonny Steven Perdomo Virguez
 
@@ -73,5 +73,8 @@ Feel free to connect with me or check out my work on GitHub!
  <a href="https://github.com/Jonny0301?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Jonny0301's github-readme-stats"/></a>
  <a href="https://github.com/Jonny0301?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jonny0301&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Jonny0301's github-readme-streak-stats"/></a>
 </div>
+
+![](./profile-3d-contrib/profile-night-view.svg)
+
 
 
