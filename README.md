@@ -68,7 +68,8 @@ Feel free to connect with me or check out my work on GitHub!
   </a>
 </div>
 
-![](./profile-3d-contrib/profile-season.svg?username=Jonny0301)
+<!-- ![](./profile-3d-contrib/profile-season.svg?username=Jonny0301) -->
+![ezgif-1-eaa628028d](https://github.com/Jonny0301/Jonny0301/assets/36594527/60c4242c-9065-4225-a23e-51e630cf8508)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
