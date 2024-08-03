@@ -90,22 +90,11 @@ Feel free to connect with me or check out my work on GitHub!
 </div>
 
 
-<div align="center">
-    <div style="display: inline-block; width: 100%;">
-        <picture>
-            <!-- Dark theme (replace with actual dark theme URL if available) -->
-            <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-season-dark.svg?username=Jonny0301" />
-            <!-- Light theme (replace with actual light theme URL if available) -->
-            <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-light.svg?username=Jonny0301" />
-            <!-- Default image -->
-            <img src="./profile-3d-contrib/profile-season.svg?username=Jonny0301" alt="Profile contribution graph" style="width: 100%;" />
-        </picture>
-    </div>
-</div>
+![](./profile-3d-contrib/profile-season.svg?username=Jonny0301)
 
 
 <div align="center">
-    <div style="display: inline-block; width: 100%;">
+    <div style="display: inline-block; width: 100%; transform: rotate(180deg)">
         <picture>
             <!-- Dark theme (if you have a specific image URL for dark theme) -->
             <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer" />
