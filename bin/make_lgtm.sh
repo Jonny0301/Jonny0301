@@ -2,7 +2,7 @@
 # create a link page of LGTM images
 
 PATH_DIR_REPO="$(dirname "$(cd "$(dirname "${BASH_SOURCE:-$0}")" && pwd)")"
-BASE_URL="https://github.com/yoshi389111/yoshi389111/raw/main/LGTM"
+BASE_URL="https://github.com/Jonny0301/Jonny0301/tree/main/LGTM"
 
 (
     cat <<EOD
