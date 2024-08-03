@@ -58,16 +58,8 @@ Feel free to connect with me or check out my work on GitHub!
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-<a href="https://github.com/Jonny0301?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Jonny0301&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
-</div>
-
-<!-- <br>
-<div align="center">
-    <a href="https://github.com/Jonny0301">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonny0301&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
-    </a>
-</div> -->
+![github contribution grid snake animation](https://raw.githubusercontent.com/Jonny0301/Jonny0301/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Jonny0301/Jonny0301/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jonny0301&theme=github-light&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories#gh-light-mode-only)
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jonny0301&theme=vue&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories#gh-dark-mode-only)
@@ -83,9 +75,9 @@ Feel free to connect with me or check out my work on GitHub!
   </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
 ![](./profile-3d-contrib/profile-season.svg)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
 
