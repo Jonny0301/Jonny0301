@@ -2,18 +2,18 @@
 
 # Jonny Steven Perdomo Virguez
 
-**Full Stack Developer**
+**Full Stack || Mobile Developer**
 
 ### 👋 Hello, there!
 
 I am an experienced Full Stack Developer with over 9 years of expertise in designing, developing, and deploying end-to-end web applications. Proficient in both front-end and back-end development, with a strong command over various programming languages and frameworks, I am committed to delivering high-quality solutions using Agile methodologies.
 
 ### 🛠️ Tech Stack
-- **Languages & Frameworks:** JavaScript, Node.js, React, Angular, Python, Django, Flask, TypeScript, Go, GraphQL, C#, Swift
-- **Frontend:** HTML5, CSS3, SCSS, React.js, Angular.js, Vue.js, React Native, Redux/Saga
+- **Languages & Frameworks:** JavaScript, Node.js, React, Angular, Python, Django, Flask, TypeScript, Go, GraphQL, C#, Swift, ios
+- **Frontend:** HTML5, CSS3, SCSS, React.js, Angular.js, Vue.js, React Native, Redux/Saga,Flutter
 - **Backend:** Node.js, Python/Django, Flask, Express.js, GraphQL, Solidity, EVM
 - **Databases:** SQL, NoSQL, MongoDB, DynamoDB, Redis, PostgreSQL, MySQL
-- **DevOps & Tools:** AWS, Docker, Kubernetes, Git, Jira, Firebase, Google Cloud Platform, Heroku
+- **DevOps & Tools:** AWS, Docker, Kubernetes, Git, Jira, Firebase, Google Cloud Platform, Heroku,Vercerl
 - **Testing:** Jest, Cypress
 
 ### 📈 Experience
@@ -27,7 +27,8 @@ I am an experienced Full Stack Developer with over 9 years of expertise in desig
 - **Front End Developer at CPS Innovations (04/2019 - 09/2021)**
   - Enhanced user engagement by 30% through portal redesign using HTML5, CSS3, JavaScript ES6.
   - Specialized in React.js and Vue.js for scalable SPAs.
-  - [Website](https://knnx.com/)
+  - [Website_one](https://knnx.com/)
+  - [Website_two](https://3dinfinite.com/)
 
 - **Full Stack Developer at SaltStack (08/2017 - 03/2019)**
   - Created scalable web applications with React, Angular, and Vue.js.
@@ -49,7 +50,6 @@ I am an experienced Full Stack Developer with over 9 years of expertise in desig
 Feel free to connect with me or check out my work on GitHub!
 
 ---
-
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jonny0301/Jonny0301/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jonny0301/Jonny0301/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
