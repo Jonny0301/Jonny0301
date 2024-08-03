@@ -73,7 +73,7 @@ Feel free to connect with me or check out my work on GitHub!
             <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Jonny0301's stats"/>
         </picture>
     </div>
-   <div style="display: inline-block; height: 100%;width:48%">
+   <div style="display:flex ; height: 100%;width:48%">
       <picture>
          <a href="https://github.com/Jonny0301?tab=stars"> 
            <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonny0301&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"alt="@Jonny0301's github-readme-streak-stats"/>
