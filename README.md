@@ -65,7 +65,7 @@ Feel free to connect with me or check out my work on GitHub!
 </div>
 
 <br>
-<div align="center" style="display:flex; flex-direction:row;">
+<div align="center" style="display:flex; flex-direction:row;width:100%;">
     <div style="display: inline-block; height: 100%;width:48%;">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" style="width:48%;" />
