@@ -74,7 +74,7 @@ Feel free to connect with me or check out my work on GitHub!
  <a href="https://github.com/Jonny0301?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jonny0301&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Jonny0301's github-readme-streak-stats"/></a>
 </div>
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-season.svg)
 
 
 
