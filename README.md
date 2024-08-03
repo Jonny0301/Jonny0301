@@ -80,11 +80,11 @@ Feel free to connect with me or check out my work on GitHub!
     <div style="display: inline-block; height: 100%;">
         <picture>
             <!-- Dark theme -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Jonny0301&theme=onestar&no-frame=true&column=6&row=1" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RoriFloris&theme=onestar&no-frame=true&column=6&row=1" />
             <!-- Light theme -->
-            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Jonny0301&theme=onestar&no-frame=true&column=6&row=1" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RoriFloris&theme=onestar&no-frame=true&column=6&row=1" />
             <!-- Fallback image -->
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jonny0301&theme=onestar&no-frame=true&column=6&row=1" alt="@Jonny0301's trophy stats" />
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=RoriFloris&theme=onestar&no-frame=true&column=6&row=1" alt="@RoriFloris's trophy stats" />
         </picture>
     </div>
 </div>
@@ -93,16 +93,5 @@ Feel free to connect with me or check out my work on GitHub!
 ![](./profile-3d-contrib/profile-season.svg?username=Jonny0301)
 
 
-<div align="center">
-    <div style="display: inline-block; width: 100%; transform: rotate(180deg)">
-        <picture>
-            <!-- Dark theme (if you have a specific image URL for dark theme) -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer" />
-            <!-- Light theme (if you have a specific image URL for light theme) -->
-            <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer" />
-            <!-- Fallback image -->
-            <img src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer" alt="Waving footer banner" style="width: 100%;" />
-        </picture>
-    </div>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
