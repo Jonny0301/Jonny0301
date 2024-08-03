@@ -68,14 +68,15 @@ Feel free to connect with me or check out my work on GitHub!
 <div align="center" style="display:flex; flex-direction:row;">
     <div style="display: inline-block; height: 100%;width:48%;">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
-            <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Jonny0301's stats"/>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" style="width:48%;" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" 
+style="width:48%;" />
+            <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Jonny0301's stats " style="width:48%;"/>
         </picture>
     </div>
    <div style="display:flex ; height: 100%;width:48%">
       <picture>
-         <a href="https://github.com/Jonny0301?tab=stars"> 
+         <a href="https://github.com/Jonny0301?tab=stars" style="width:48%;"> 
            <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonny0301&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"alt="@Jonny0301's github-readme-streak-stats"/>
           </a>
       </picture>
