@@ -61,8 +61,8 @@ Feel free to connect with me or check out my work on GitHub!
 
 <div align="center">
   <a href="https://github.com/Jonny0301?tab=repositories">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-light-mode-only"  width="48%" alt="@Jonny0301's github-readme-stats"/>
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-dark-mode-only"  width="48%" alt="@Jonny0301's github-readme-stats"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-light-mode-only"  width="48%" alt="@Jonny0301's github-readme-stats"/>
   </a>
   <a href="https://github.com/Jonny0301?tab=stars">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonny0301&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D#gh-light-mode-only" width="48%" alt="@Jonny0301's github-readme-streak-stats" />
