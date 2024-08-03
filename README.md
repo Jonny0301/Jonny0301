@@ -53,12 +53,11 @@ Feel free to connect with me or check out my work on GitHub!
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jonny0301/Jonny0301/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jonny0301/Jonny0301/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jonny0301/Jonny0301/output/github-contribution-grid-snake.svg">
 </picture>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Jonny0301/Jonny0301/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jonny0301/Jonny0301/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jonny0301&theme=github-light&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories#gh-light-mode-only)
