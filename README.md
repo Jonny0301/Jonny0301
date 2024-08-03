@@ -80,11 +80,11 @@ Feel free to connect with me or check out my work on GitHub!
     <div style="display: inline-block; height: 100%;">
         <picture>
             <!-- Dark theme -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RoriFloris&theme=onestar&no-frame=true&column=6&row=1" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Jonny0301&theme=onestar&no-frame=true&column=6&row=1" />
             <!-- Light theme -->
-            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RoriFloris&theme=onestar&no-frame=true&column=6&row=1" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Jonny0301&theme=onestar&no-frame=true&column=6&row=1" />
             <!-- Fallback image -->
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=RoriFloris&theme=onestar&no-frame=true&column=6&row=1" alt="@RoriFloris's trophy stats" />
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jonny0301&theme=onestar&no-frame=true&column=6&row=1" alt="@Jonny0301's trophy stats" />
         </picture>
     </div>
 </div>
