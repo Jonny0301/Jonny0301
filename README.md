@@ -70,9 +70,17 @@ Feel free to connect with me or check out my work on GitHub!
 </div>
 
 <div align="center">
- <a href="https://github.com/Jonny0301?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Jonny0301's github-readme-stats"/></a>
- <a href="https://github.com/Jonny0301?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jonny0301&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Jonny0301's github-readme-streak-stats"/></a>
+  <a href="https://github.com/Jonny0301?tab=repositories">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-light-mode-only"  width="48%" alt="@Jonny0301's github-readme-stats"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-dark-mode-only"  width="48%" alt="@Jonny0301's github-readme-stats"/>
+  </a>
+  <a href="https://github.com/Jonny0301?tab=stars">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonny0301&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D#gh-light-mode-only" width="48%" alt="@Jonny0301's github-readme-streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonny0301&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D#gh-dark-mode-only" width="48%" alt="@Jonny0301's github-readme-streak-stats" />
+  </a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
 ![](./profile-3d-contrib/profile-season.svg)
 
