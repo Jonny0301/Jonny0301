@@ -54,20 +54,6 @@ Feel free to connect with me or check out my work on GitHub!
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jonny0301/Jonny0301/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jonny0301/Jonny0301/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<!-- ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jonny0301&theme=github-light&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories#gh-light-mode-only)
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jonny0301&theme=vue&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories#gh-dark-mode-only)
-
-<div align="center">
-  <a href="https://github.com/Jonny0301?tab=repositories">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-dark-mode-only"  width="48%" alt="@Jonny0301's github-readme-stats"/>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-light-mode-only"  width="48%" alt="@Jonny0301's github-readme-stats"/>
-  </a>
-  <a href="https://github.com/Jonny0301?tab=stars">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonny0301&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D#gh-light-mode-only" width="48%" alt="@Jonny0301's github-readme-streak-stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonny0301&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D#gh-dark-mode-only" width="48%" alt="@Jonny0301's github-readme-streak-stats" />
-  </a>
-</div> -->
-
 <div style="text-align: center;">
     <div style="display: inline-block; height: 100%;">
         <picture>
@@ -91,20 +77,19 @@ Feel free to connect with me or check out my work on GitHub!
 
 <br>
 <div align="center">
-    <div style="display: inline-block; height: 100%;">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Jonny0301&no-bg=true&no-border=false&no-frame=true&column=6&row=1&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Jonny0301&no-bg=true&no-border=false&no-frame=true&column=6&row=1&theme=flat" />
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jonny0301&no-bg=true&no-border=false&no-frame=true&column=6&row=1&theme=radical" alt="Jonny0301's stats"/>
-        </picture>
-    </div>
+  <a href="https://github.com/Jonny0301?tab=repositories">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-dark-mode-only"  width="48%" alt="@Jonny0301's github-readme-stats"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-light-mode-only"  width="48%" alt="@Jonny0301's github-readme-stats"/>
+  </a>
+  <a href="https://github.com/Jonny0301?tab=stars">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonny0301&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D#gh-light-mode-only" width="48%" alt="@Jonny0301's github-readme-streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonny0301&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D#gh-dark-mode-only" width="48%" alt="@Jonny0301's github-readme-streak-stats" />
+  </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
 ![](./profile-3d-contrib/profile-season.svg?username=Jonny0301)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
-
 
