@@ -77,19 +77,43 @@ Feel free to connect with me or check out my work on GitHub!
 
 <br>
 <div align="center">
-  <a href="https://github.com/Jonny0301?tab=repositories">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-dark-mode-only"  width="48%" alt="@Jonny0301's github-readme-stats"/>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-light-mode-only"  width="48%" alt="@Jonny0301's github-readme-stats"/>
-  </a>
-  <a href="https://github.com/Jonny0301?tab=stars">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonny0301&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D#gh-light-mode-only" width="48%" alt="@Jonny0301's github-readme-streak-stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonny0301&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D#gh-dark-mode-only" width="48%" alt="@Jonny0301's github-readme-streak-stats" />
-  </a>
+    <div style="display: inline-block; height: 100%;">
+        <picture>
+            <!-- Dark theme -->
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Jonny0301&theme=onestar&no-frame=true&column=6&row=1" />
+            <!-- Light theme -->
+            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Jonny0301&theme=onestar&no-frame=true&column=6&row=1" />
+            <!-- Fallback image -->
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jonny0301&theme=onestar&no-frame=true&column=6&row=1" alt="@Jonny0301's trophy stats" />
+        </picture>
+    </div>
 </div>
 
 
-![](./profile-3d-contrib/profile-season.svg?username=Jonny0301)
+<div align="center">
+    <div style="display: inline-block; width: 100%;">
+        <picture>
+            <!-- Dark theme (replace with actual dark theme URL if available) -->
+            <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-season-dark.svg?username=Jonny0301" />
+            <!-- Light theme (replace with actual light theme URL if available) -->
+            <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-light.svg?username=Jonny0301" />
+            <!-- Default image -->
+            <img src="./profile-3d-contrib/profile-season.svg?username=Jonny0301" alt="Profile contribution graph" style="width: 100%;" />
+        </picture>
+    </div>
+</div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
+<div align="center">
+    <div style="display: inline-block; width: 100%;">
+        <picture>
+            <!-- Dark theme (if you have a specific image URL for dark theme) -->
+            <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer" />
+            <!-- Light theme (if you have a specific image URL for light theme) -->
+            <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer" />
+            <!-- Fallback image -->
+            <img src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer" alt="Waving footer banner" style="width: 100%;" />
+        </picture>
+    </div>
+</div>
 
