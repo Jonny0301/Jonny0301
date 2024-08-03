@@ -10,7 +10,7 @@ I am an experienced Full Stack Developer with over 9 years of expertise in desig
 
 ### 🛠️ Tech Stack
 - **Languages & Frameworks:** JavaScript, Node.js, React, Angular, Python, Django, Flask, TypeScript, Go, GraphQL, C#, Swift, ios
-- **Frontend:** HTML5, CSS3, SCSS, React.js, Angular.js, Vue.js, React Native, Redux/Saga,Flutter
+- **Frontend:** HTML5, CSS3, SCSS, React.js, Angular.js, Vue.js, React Native, Redux/Saga, Flutter
 - **Backend:** Node.js, Python/Django, Flask, Express.js, GraphQL, Solidity, EVM
 - **Databases:** SQL, NoSQL, MongoDB, DynamoDB, Redis, PostgreSQL, MySQL
 - **DevOps & Tools:** AWS, Docker, Kubernetes, Git, Jira, Firebase, Google Cloud Platform, Heroku,Vercerl
@@ -68,8 +68,7 @@ Feel free to connect with me or check out my work on GitHub!
   </a>
 </div>
 
-<!-- ![](./profile-3d-contrib/profile-season.svg?username=Jonny0301) -->
-![ezgif-1-eaa628028d](https://github.com/Jonny0301/Jonny0301/assets/36594527/60c4242c-9065-4225-a23e-51e630cf8508)
+![](./profile-3d-contrib/profile-season.svg?username=Jonny0301)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
